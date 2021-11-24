@@ -14,7 +14,6 @@ participation in the program.
 
 *Update* Genode Labs was not accepted as mentoring organization for GSoC 2012.
 
-
 Application of Genode Labs as mentoring organization
 ####################################################
 :Organization ID: genodelabs
@@ -117,7 +116,6 @@ Application of Genode Labs as mentoring organization
   This makes it easy for each community member to get involved, discuss
   the rationale behind design decisions, and audit solutions.
 
-
 Topics
 ######
 
@@ -144,7 +142,6 @@ SPARTAN's kernel API to Genode a challenging endeavour and would provide us
 with feedback regarding the universality of Genode's internal interfaces.
 Finally, this project has the potential to ignite a further collaboration
 between the HelenOS and Genode communities.
-
 
 Block-level encryption
 ======================
@@ -179,7 +176,6 @@ utilities available (at os/include/net/).
 
 :[https://github.com/genodelabs/genode/issues/114 - Discuss the issue...]:
 
-
 Runtime for the Go or D programming language
 ============================================
 
@@ -189,7 +185,6 @@ such as device drivers, file systems, and other protocol stacks. The goals
 for this project are to investigate the Go and D programming languages with
 respect to their use within Genode, port the runtime of of those languages
 to Genode, and provide a useful level of integration with Genode.
-
 
 Block cache
 ===========
